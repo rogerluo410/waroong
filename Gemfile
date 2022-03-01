@@ -14,7 +14,7 @@ gem "bootstrap", ">= 4.3.1"
 gem 'jquery-rails'
 gem "administrate"
 gem 'administrate-field-active_storage'
-gem 'image_processing', '~> 1.2'
+gem 'image_processing', '~> 1.12'
 gem 'devise'
 gem "font-awesome-rails"
 gem 'breadcrumbs_on_rails'
